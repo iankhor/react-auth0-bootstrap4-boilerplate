@@ -1,5 +1,5 @@
 {
-  "name": "react-auth0-gmaps",
+  "name": "react-auth0-bootstrap4-boilerplate",
   "license": "MIT",
   "version": "0.0.1",
   "devDependencies": {
@@ -11,7 +11,6 @@
   "dependencies": {
     "auth0-lock": "^10.13.0",
     "bootstrap": "^4.0.0-alpha.6",
-    "google-map-react": "^0.23.0",
     "history": "^4.5.1",
     "react": "^15.4.2",
     "react-addons-css-transition-group": "^15.4.2",
@@ -23,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iankhor/react-auth0-gmaps.git"
+    "url": "https://github.com/iankhor/react-auth0-bootstrap4-boilerplate.git"
   },
   "scripts": {
     "start": "PORT=9000 react-scripts start",
