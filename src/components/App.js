@@ -20,7 +20,8 @@ class App extends Component {
             <Row>
               <Col>
                 <img src={logo} className="App-header App-logo" alt="logo" />
-                <h2>React + Auth0 + Google Maps</h2>
+                <p><h2>React + Auth0 + Bootstrap 4</h2></p>
+                <p><h2>Boilerplate</h2></p>
               </Col>
             </Row>
 
