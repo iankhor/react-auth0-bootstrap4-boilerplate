@@ -5,6 +5,8 @@ This boilerplate was bootstrapped with:
 
 An example of the boilerplate can be seen here at : [https://react-auth0-bootstrap4.herokuapp.com/](https://react-auth0-bootstrap4.herokuapp.com/)
 
+![Example](https://github.com/iankhor/files/blob/master/react-auth0-bootstrap/1.%20react-auth0-bootstrap.gif)
+
 ### Instructions
 1. Git clone repository into your local directory
 2. Run ```npm i``` in your local directory
