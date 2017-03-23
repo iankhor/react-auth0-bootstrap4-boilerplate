@@ -20,6 +20,6 @@ For more info, check out the `Auth0 setup` section of my publication here : [htt
 ### Notes
 1. Update any environment variables where applicable in your local ```.env``` file
 2. Update CSS in the style.styl file
-3. Any changes in the code and ```.styl``` files will automatically recompile the project
+3. Any changes in the code and ```.styl``` files will automatically recompile the projects
 4. Update routes in the component called ```Routes``` in ```\src\Routes.js```
 5. The component ```JSONDebugger``` can be used to display JSON data by passing the component a JSON file with the prop name ```json```.
